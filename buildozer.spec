@@ -13,7 +13,7 @@ package.domain = ru.blagar.app
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas,gif
+source.include_exts = py,png,jpg,kv,atlas,gif,tar,gzip,tar+gzip
 
 # (list) List of inclusions using pattern matching
 #source.include_patterns = assets/*,images/*.png
